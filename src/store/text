@@ -1,0 +1,74 @@
+doctor = {
+          "about": "(shifokor haqida)",
+          "address": "Xorazim vil.  Ziyolilar MFY,",
+          "email": "shifokorJ@gmail.com",
+          "job": "Xorazim vil.  Ziyolilar MFY, 7-sonli Oilaviy poliklinika",
+          "name": "Jamila",
+          "password": "123456",
+          "phone": "+99897 889 8777",
+          "role": "doctor",
+          "speciality": "Genikolog",
+          "surname": "Zoirova",
+          "uid": "PY5NwxRvo8XFnwlpKFdah5xHwT82"
+}
+
+patient = {
+        "additionallyInfo": "Allergiyaga o'ta sezuvchan...",
+        "address": "Xorazim vil. Xonqa t, Ziyolilar MFY",
+        "birth": "2024-01-02",
+        "bloodPressure": 1212,
+        "dishes": {        },
+        "doctorId": "PY5NwxRvo8XFnwlpKFdah5xHwT82",
+        "email": "bemorH@gmail.com",
+        "height": 156,
+        "name": "Holida",
+        "numOfBirth": 3,
+        "numOfPregnancies": 1,
+        "password": "123456",
+        "phone": "+998998787848",
+        "pregnancyDate": "2023-12-13",
+        "role": "patient",
+        "surname": "Roziqova",
+        "uid": "w6lFTQLaxGTSeebGfXI67Sp18Ky1",
+        "weight": 67
+}
+
+
+dish = {
+      "category": "fruit",
+      "unit": "dona",
+      "name_uz": "olma",
+      "name_ru": "olma",
+      "name_en": "olma",
+      "id": 1001,
+      "calory": 57,
+      "proteins": 0.3,
+      "fats": 0.1,
+      "carbohydrates": 13.6,
+      "calcium": 6,
+      "phosphorus": 10,
+      "Magnesium": 5,
+      "Iron": 0.13,
+      "Zinc": 0.04,
+      "iodin": 0,
+      "Selenium": 0,
+      "vitmin_c": 4.6,
+      "vitamin_a": 3,
+      "vitamin_e": 0.18,
+      "vitamin_d": 0,
+      "vitamin_b1": 0.018,
+      "vitamin_b2": 0.026,
+      "vitamin_b6": 0.051,
+      "folate": 3,
+      "vitamin_b12": 0,
+      "weight": 150
+}
+
+vitamineName = {
+       "tag": "calory",
+      "icon": "Cal",
+      "name_uz": "kaloriya",
+      "name_ru": "kaloriya",
+      "name_en": "kaloriya"
+}
+
